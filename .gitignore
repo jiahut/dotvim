@@ -1,4 +1,4 @@
 .netrwhist
 **/*.git
-..gitignore.un~
-**/..gitignore.un~
+.*.un~
+**/.*.un~
